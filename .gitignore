@@ -1,0 +1,14 @@
+# Secretos
+.env
+*.key
+# Datos generados en ejecución
+chroma_db/
+memoria/
+data/
+__pycache__/
+.ipynb_checkpoints/
+*.pyc
+streamlit.log
+cloudflared*
+evidencia_ep3.zip
+# logs/ y reportes/ SÍ se suben como evidencia de pruebas
